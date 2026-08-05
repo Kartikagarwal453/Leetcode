@@ -12,7 +12,7 @@ class Solution {
 
         dfs(k, graph, suspicious);
 
-        // Check if an outside method invokes a suspicious method
+        
         for (int[] edge : invocations) {
             int u = edge[0];
             int v = edge[1];
