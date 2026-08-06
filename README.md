@@ -9,6 +9,14 @@
 
 Welcome to my **Daily LeetCode Solutions** repository! This repository contains my daily solutions to LeetCode problems as part of my commitment to improving my **Data Structures & Algorithms (DSA)**, **problem-solving**, and **coding interview** skills.
 
+---
+
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/gDwSkXjuUC?theme=dark&font=Karma)
+
+---
+
 ## 🎯 Goals
 
 - 📅 Solve LeetCode problems consistently every day.
