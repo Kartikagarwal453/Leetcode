@@ -1,1 +1,70 @@
-# Leetcode
+# 🚀 Daily LeetCode Solutions
+
+Welcome to my **Daily LeetCode Solutions** repository! This repository contains my daily solutions to LeetCode problems as part of my commitment to improving my **Data Structures & Algorithms (DSA)**, **problem-solving**, and **coding interview** skills.
+
+## 🎯 Goals
+
+- 📅 Solve LeetCode problems consistently every day.
+- 🧠 Strengthen understanding of Data Structures and Algorithms.
+- 💡 Learn multiple approaches and optimize solutions.
+- 📈 Track my coding progress over time.
+- 💼 Prepare for software engineering, data engineering, and data analyst interviews.
+
+---
+
+## 📝 Solution Format
+
+Each solution may include:
+
+- ✅ Problem Name
+- 🔗 LeetCode Problem Link
+- 💻 Solution Code
+- ⚡ Time Complexity
+- 💾 Space Complexity
+- 📖 Brief Explanation (when applicable)
+
+---
+
+## 🛠 Languages Used
+
+- Java
+- Python
+- SQL
+
+*(More languages may be added in the future.)*
+
+---
+
+## 📊 Progress
+
+| Difficulty | Status |
+|------------|--------|
+| 🟢 Easy | In Progress |
+| 🟡 Medium | In Progress |
+| 🔴 Hard | In Progress |
+
+---
+
+## 🎯 Why This Repository?
+
+Consistency is the key to mastering problem solving. By solving LeetCode problems daily, I aim to:
+
+- Improve logical thinking
+- Master DSA concepts
+- Learn optimal algorithms
+- Prepare for coding interviews
+- Build a public record of my learning journey
+
+---
+
+## 🤝 Contributions
+
+This repository is primarily for my personal learning journey. However, if you have suggestions for improving any solution or finding a more optimal approach, feel free to open an Issue or Pull Request.
+
+---
+
+## ⭐ Connect With Me
+
+If you find this repository helpful or interesting, consider giving it a ⭐.
+
+Happy Coding! 🚀
