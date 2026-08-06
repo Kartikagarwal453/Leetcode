@@ -1,5 +1,12 @@
 # 🚀 Daily LeetCode Solutions
 
+![LeetCode](https://img.shields.io/badge/LeetCode-Daily%20Challenge-orange?logo=leetcode)
+![Language](https://img.shields.io/badge/Languages-Java%20%7C%20Python%20%7C%20SQL-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Repository](https://img.shields.io/badge/Focus-DSA%20%26%20Problem%20Solving-red)
+![License](https://img.shields.io/badge/Repository-Public-black)
+
+
 Welcome to my **Daily LeetCode Solutions** repository! This repository contains my daily solutions to LeetCode problems as part of my commitment to improving my **Data Structures & Algorithms (DSA)**, **problem-solving**, and **coding interview** skills.
 
 ## 🎯 Goals
