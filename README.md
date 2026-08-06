@@ -48,15 +48,6 @@ Each solution may include:
 
 *(More languages may be added in the future.)*
 
----
-
-## 📊 Progress
-
-| Difficulty | Status |
-|------------|--------|
-| 🟢 Easy | In Progress |
-| 🟡 Medium | In Progress |
-| 🔴 Hard | In Progress |
 
 ---
 
