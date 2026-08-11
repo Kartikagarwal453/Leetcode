@@ -1,15 +1,19 @@
-SELECT
-    sample_id,
-    dna_sequence,
-    species,
-
-    (dna_sequence ~ '^ATG')::int AS has_start,
-
-    (dna_sequence ~ '(TAA|TAG|TGA)$')::int AS has_stop,
-
-    (dna_sequence LIKE '%ATAT%')::int AS has_atat,
-
-    (dna_sequence ~ 'G{3,}')::int AS has_ggg
-
+SELECT sample_id, dna_sequence, species,
+    CASE 
+        WHEN dna_sequence LIKE 'ATG%' THEN 1
+        ELSE 0
+    END AS has_start,
+    CASE 
+        WHEN dna_sequence SIMILAR TO '%(TAA|TAG|TGA)' THEN 1
+        ELSE 0
+    END AS has_stop,
+    CASE 
+        WHEN dna_sequence LIKE '%ATAT%' THEN 1
+        ELSE 0
+    END AS has_atat,
+    CASE 
+        WHEN dna_sequence LIKE '%GGG%' THEN 1
+        ELSE 0
+    END AS has_ggg
 FROM Samples
-ORDER BY sample_id ASC;
+ORDER BY sample_id;
